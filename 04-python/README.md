@@ -2,7 +2,7 @@
 
 Projetos de análise de dados desenvolvidos com Python.
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 - Python
 - Pandas
